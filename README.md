@@ -2,8 +2,10 @@
 
 #### 😄 认认真真编程，踏踏实实做人
 
+<a href="https://github.com/kkxiaojun">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kkxiaojun&theme=default&show_icons=true&bg_color=30,11998e,44b984&title_color=fff&text_color=fff&icon_color=ffffff&include_all_commits=true"/>
+</a>
 
-[https://github.com/kkxiaojun](https://github-readme-stats.vercel.app/api?username=kkxiaojun&theme=default&show_icons=true&bg_color=30,11998e,44b984&title_color=fff&text_color=fff&icon_color=ffffff&include_all_commits=true)
 <!--
 **kkxiaojun/kkxiaojun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
